@@ -1,7 +1,7 @@
 # YouTube:
-Author: Tech With Time
-Title: 9 HOURS of Python Projects - From Beginner to Advanced
-URL: https://www.youtube.com/watch?v=NpmFbWO6HPU
+ Author: Tech With Time
+ Title: 9 HOURS of Python Projects - From Beginner to Advanced
+ URL: https://www.youtube.com/watch?v=NpmFbWO6HPU
 
 # #1 - Quiz Game (Easy)
  Code: https://github.com/techwithtim/5-Python-Projects-For-Beginners/blob/main/quiz_game.py

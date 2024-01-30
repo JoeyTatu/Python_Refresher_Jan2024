@@ -31,7 +31,7 @@ symbol_value = { # Winnings = bet x below, e.g. 7️⃣7️⃣7️⃣ = bet x 10
     "🍇": 2,
     "🍒": 2,
     "🍊": 2,
-    "💸": 0,
+    "💸": 1,
 }
 
 def check_winnings(columns, lines, bet, values):
@@ -149,7 +149,7 @@ def main():
     winnings = check_winnings(slots, lines, bet, symbol_value)
 
     print()
-    
+
     if winnings == 0:
         print("Sorry, you didn't win this time.")
     

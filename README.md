@@ -1,5 +1,5 @@
 # YouTube:
-# Author: Tech With Time
+# Author: Tech With Tim
 #  Title: 9 HOURS of Python Projects - From Beginner to Advanced
 #  URL: https://www.youtube.com/watch?v=NpmFbWO6HPU
 
